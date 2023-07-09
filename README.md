@@ -1,2 +1,2 @@
-# Movil-1
+# Algoritmica Avanzada
 practico de moviles
