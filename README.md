@@ -1,2 +1,2 @@
 # Algoritmica Avanzada
-practico de moviles
+practicos de algoritmica
